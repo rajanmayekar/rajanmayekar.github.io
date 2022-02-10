@@ -3,6 +3,7 @@ body{font-family:'Montserrat',sans-serif}@-webkit-keyframes pulse{0%,to{-ms-filt
 #particles-js{
   position:absolute;
   height: 100%;
+  width: 100%;
   background-color:#1a222c;
   background-image: url("");
   background-repeat:no-repeat;
